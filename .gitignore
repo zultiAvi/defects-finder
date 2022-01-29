@@ -1,0 +1,13 @@
+*.pyc
+data/gt/
+data/modified_gt/
+__pycache__/
+checkpoints/
+*.jpg
+venv/
+.idea/
+/wandb/run*/
+/models/*.pth
+/data/defective_examples/*_out_mask.tif
+/data/defective_examples/*_inspected_image_out_mask.png
+/data/defective_examples/debug/*
